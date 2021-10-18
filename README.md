@@ -1,106 +1,87 @@
+NIM : 1922500162 <br>
+Nama : Amanda Monica <br>
+Kelompok : SI5A <br>
+
+<p>Kesimpulan atau hasil pertemuan 1 yang dapat saya ambil adalah : </p>
+
 <ol>
-  <li> Isi Kesimpulan 1 </li>
-  Materi Rekayasa Web Pertemuan 1
-  
-  1. Menyimak materi pembelajaran dengan baik, jangan di langkah-langah atau skip.
-  
-  2. Di Rekayasa Web tidak ada lagi "Susah Koding".
-  
-  3. Front end --> halaman depan
-  
-  4. Back end --> halaman dasboard
-  
-  5. Cara menggunakan website Wordpress.
-  
-  6. Di Wordpress terdapat banyak plugin.
-  
-  7. Di Wordpress dapat mengembangkan website agar lebih rapi dan teratur serta menarik.
-  
-  8. Wordpress --> salah satu CMS (Content Manajemen System).
-  
-  9. Di Wordpress dapat membuat CRUD seperti yang telah dipelajari di DPWL --> ada bagian tambah (insert), tampil (select), ubah, dan upload.
-  
-  10. Tujuan belajar Rekayasa Web --> ngeklik langsung jadi web dan dapat mengembangkan agar lebih menarik.
-  
-  11. CRUD (Create, Read, Update dan Delete) --> untuk mengoperasikan database.
-  
-  12. Ciri Website CMS Wordpress :
-    a. Panel Admin --> https://namadomain/wp-admin
-    b. Keterangan Website --> https://namadomain/readme.html
-    c. File yang di upload --> https://namadomain/wp-content/uploads/tahun/bulan/namafile
-    d. Pengaturan Konfigurasi koneksi --> wp-config.php
-    e. Tagline --> Just another Wordpress
-    f. Footer --> Powered by Wordpress
-    g. ctrl+U --> nampil input --> wp-content
-  
-  13. Contoh website Wordpress : sekawanmedia, niagahoster
-  
-  14. check theme wordpress --> untuk memastikan Wordpress atau bukan.
-  
-  15.  Install Wordpress
-    a. Database --> file sql
-    b. Aplikasi --> htdoc
-    c. Export Database --> backup database
-    d. Backup file Aplikasi Wordpress --> dari htdoc di copy letak di tempat lain
-    e. Import Database --> perlu ada file untuk di letakkan
-    f. Restore Aplikasi Wordpress 
-  16. Plugin di Wordpress --> untuk keamanan (ex : niagahoster), tampilan (slideshow) dan konten (share ke Instagram, Youtube, dll)
-  
-  17. Tujuan perkuliahan :
-    a. Membuat web dengan CMS (Content Manajemen System).
-    b. Dapat belajar membuat plugin CRUD sendiri dan dikembangkan untuk menghasilkan sistem informasi.
-  
-  18. CMS (Content Manajemen System)
-    a. Wordpress --> untuk web umum (lebih ke blog)
-    b. Joomla! --> untuk web umum (lebih ke blog)
-    c. Drupal --> untuk web umum (lebih ke blog)
-    d. Senayan --> untuk perpustakaan
-    e. Lokomedia --> untuk web umum (lebih ke blog)
-    f. Moodle --> untuk pembelajaran
-    g. PrestaShop
-  
-  19. Perangkat lunak yang dibutuhkan dalam perkuliahan :
-    a. XAMPP --> minimal 5.6.20
-    b. Sublime atau Notepad++
-    c. FilleZilla dan WinSCP
-    d. Google Chrome dan Firefox 
-  
-  20. Ada 2 macam Wordpress :
-    a. Wordpress.com --> digunakan khusus untuk pengguna akhir yang barang siap pakai. 
-    b. Wordpress.org --> kumpulan pengembangan (plugin)
-  
-  21. Cara Download Wordpress :
-    - Klik https://wordpress.org/
-    - Klik instal Wordpress
-    - Lalu klik unduh Wordpress 5.8.1
-    - File Zip Wordpress di ekstrak
-    - Rename nama folder si5a2122o
-    - Copy file dan letakkan di htdoc
-    - Jangan lupa start Apache MySQL
-    - Setelah meletakkan di htdoc, ketik di browser localhost/si5a2122o
-    - Pilih bahasa Indonesia 
-    - MySQL klik admin, lalu klik ayo
-    - Tentukan nama basis data --> db_si5a2122o
-    - Nama pengguna --> root
-    - Sandi kosongkan
-    - Lalu klik kirim 
-    - Membuat database di phpMyAdmin --> db_si5a2122o
-    - Kemudian refresh dan isi judul situs
-    - Nama pengguna --> admin
-    - Sandi --> admin
-    - Isi email masing-masing
-    - Klik Instal Wordpress
-    - Lalu login web Wordpress
-  
-  22. Cara backup :
-    - Buat folder SI5A 1
-    - Copy file si5a2122o dari htdoc 
-    - Letakkan di folder SI5A 1
-    - Cari phpMyAdmin kemudian klik export
-    - Pilih custom
-    - Pilih database yang mau diambil (db_si5a2122o)
-    - Klik tombol go
-    - Letakkan di folder  SI5A 1
-    - Kemudian di compress ( add to 1.7z)
-  
-</ol>
+  <li> Isi Kesimpulan 1 </li> <br>
+  <li>1. Front end --> halaman depan</li> <br>
+  <li>Back end --> halaman dasboard</li> <br>
+  <li>Cara menggunakan website Wordpress.</li> <br>
+  <li>Di Wordpress terdapat banyak plugin.</li><br>
+  <li>Di Wordpress dapat mengembangkan website agar lebih rapi dan teratur serta menarik.</li> <br>
+  <li>Wordpress --> salah satu CMS (Content Manajemen System). </li> <br>
+  <li>Di Wordpress dapat membuat CRUD seperti yang telah dipelajari di DPWL --> ada bagian tambah (insert), tampil (select), ubah, dan upload.</li> <br>
+  <li>Tujuan belajar Rekayasa Web --> ngeklik langsung jadi web dan dapat mengembangkan agar lebih menarik.</li> <br>
+  <li>CRUD (Create, Read, Update dan Delete) --> untuk mengoperasikan database.</li> <br>
+  <li>Ciri Website CMS Wordpress :</li> <br>
+    <li>a. Panel Admin --> <a href="https://namadomain/wp-admin"target="_blank">https://namadomain/wp-admin </li><br>
+    <li>b. Keterangan Website --> <a href="https://namadomain/readme.html"target="_blank">https://namadomain/readme.html </li><br>
+    <li>c. File yang di upload --> <a href="https://namadomain/wp-content/uploads/tahun/bulan/namafile"target="_blank">https://namadomain/wp-content/uploads/tahun/bulan/namafile </li><br>
+    <li>d. Pengaturan Konfigurasi koneksi --> wp-config.php </li><br>
+    <li>e. Tagline --> Just another Wordpress </li><br>
+    <li>f. Footer --> Powered by Wordpress </li><br>
+    <li>g. ctrl+U --> nampil input --> wp-content </li><br>
+  <li>Contoh website Wordpress : sekawanmedia, niagahoster </li><br>
+  <li>Check theme wordpress --> untuk memastikan Wordpress atau bukan. </li><br>
+  <li>Install Wordpress : </li><br>
+    <li>a. Database --> file sql </li><br>
+    <li>b. Aplikasi --> htdoc </li><br>
+    <li>c. Export Database --> backup database </li><br>
+    <li>d. Backup file Aplikasi Wordpress --> dari htdoc di copy letak di tempat lain </li><br>
+    <li>e. Import Database --> perlu ada file untuk di letakkan</li><br>
+    <li>f. Restore Aplikasi Wordpress </li><br>
+  <li>Plugin di Wordpress --> untuk keamanan (ex : niagahoster), tampilan (slideshow) dan konten (share ke Instagram, Youtube, dll) </li><br>
+  <li>Tujuan perkuliahan : </li><br>
+    <li>a. Membuat web dengan CMS (Content Manajemen System). </li><br>
+    <li>b. Dapat belajar membuat plugin CRUD sendiri dan dikembangkan untuk menghasilkan sistem informasi. </li><br>
+  <li>CMS (Content Manajemen System) </li><br>
+    <li>a. Wordpress --> untuk web umum (lebih ke blog) </li><br>
+    <li>b. Joomla! --> untuk web umum (lebih ke blog) </li><br>
+    <li>c. Drupal --> untuk web umum (lebih ke blog) </li><br>
+    <li>d. Senayan --> untuk perpustakaan </li><br>
+    <li>e. Lokomedia --> untuk web umum (lebih ke blog) </li><br>
+    <li>f. Moodle --> untuk pembelajaran</li><br>
+    <li>g. PrestaShop </li><br>
+  <li>Perangkat lunak yang dibutuhkan dalam perkuliahan : </li><br>
+    <li>a. XAMPP --> minimal 5.6.20 </li><br>
+    <li>b. Sublime atau Notepad++ </li><br>
+    <li>c. FilleZilla dan WinSCP </li><br>
+    <li>d. Google Chrome dan Firefox </li><br>
+  <li>Ada 2 macam Wordpress : </li><br>
+    <li>a. Wordpress.com --> digunakan khusus untuk pengguna akhir yang barang siap pakai. </li><br>
+    <li>b. Wordpress.org --> kumpulan pengembangan (plugin) </li><br>
+  <li>Cara Download Wordpress : </li><br>
+    <li>- Klik <a href="https://wordpress.org/"target="_blank">https://wordpress.org/ </li><br>
+    <li>- Klik instal Wordpress </li><br>
+    <li>- Lalu klik unduh Wordpress 5.8.1 </li><br>
+    <li>- File Zip Wordpress di ekstrak </li><br>
+    <li>- Rename nama folder si5a2122o </li><br>
+    <li>- Copy file dan letakkan di htdoc </li><br>
+    <li>- Jangan lupa start Apache MySQL </li><br>
+    <li>- Setelah meletakkan di htdoc, ketik di browser localhost/si5a2122o </li><br>
+    <li>- Pilih bahasa Indonesia </li><br>
+    <li>- MySQL klik admin, lalu klik ayo </li><br>
+    <li>- Tentukan nama basis data --> db_si5a2122o </li><br>
+    <li>- Nama pengguna --> root </li><br>
+    <li>- Sandi kosongkan </li><br>
+    <li>- Lalu klik kirim </li><br>
+    <li>- Membuat database di phpMyAdmin --> db_si5a2122o </li><br>
+    <li>- Kemudian refresh dan isi judul situs </li><br>
+    <li>- Nama pengguna --> admin </li><br>
+    <li>- Sandi --> admin </li><br>
+    <li>- Isi email masing-masing </li><br>
+    <li>- Klik Instal Wordpress </li><br>
+    <li>- Lalu login web Wordpress </li><br>
+  <li>Cara backup : </li><br>
+    <li>- Buat folder SI5A 1 </li><br>
+    <li>- Copy file si5a2122o dari htdoc </li><br>
+    <li>- Letakkan di folder SI5A 1 </li><br>
+    <li>- Cari phpMyAdmin kemudian klik export </li><br>
+    <li>- Pilih custom </li><br>
+    <li>- Pilih database yang mau diambil (db_si5a2122o) </li><br>
+    <li>- Klik tombol go </li><br>
+    <li>- Letakkan di folder  SI5A 1 </li><br>
+    <li>- Kemudian di compress ( add to 1.7z) </li><br>
+  </ol>
